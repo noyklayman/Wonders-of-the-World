@@ -9,6 +9,7 @@ Convenient Navigation: A top menu allows for quick access to each wonder and a b
 
 **Seven Wonders of the World Featured on the Site:**
 1.The Great Pyramid of Giza (Egypt)
+
 2.The Hanging Gardens of Babylon (Iraq)
 3.The Temple of Artemis at Ephesus (Turkey)
 4.The Statue of Zeus at Olympia (Greece)
@@ -18,4 +19,5 @@ Convenient Navigation: A top menu allows for quick access to each wonder and a b
 
 **Technologies Used:**
 Frontend: HTML, CSS
+
 Backend: PHP
