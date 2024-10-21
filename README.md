@@ -36,5 +36,14 @@ Frontend: HTML, CSS
 
 Backend: PHP
 
+**Home Page:** 
 ![image](https://github.com/user-attachments/assets/c72b1962-b5be-40a8-ab94-f114f6ce8268)
+
+**An example of a Wonder of the World page:** 
+![image](https://github.com/user-attachments/assets/67bbec21-c11c-468d-8c08-5c014b904b57)
+
+
+![image](https://github.com/user-attachments/assets/528bd8cf-5ed3-47e6-9115-d90e9b4b7671)
+
+
 
